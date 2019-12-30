@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkConsoleApp", "FrameworkConsoleApp.csproj", "{3900677D-FDB1-434C-8AE5-E7CD88FAD107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkClient", "..\FrameworkClient\FrameworkClient.csproj", "{221A3BF1-A322-486B-9390-08916BC89CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3900677D-FDB1-434C-8AE5-E7CD88FAD107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3900677D-FDB1-434C-8AE5-E7CD88FAD107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3900677D-FDB1-434C-8AE5-E7CD88FAD107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3900677D-FDB1-434C-8AE5-E7CD88FAD107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221A3BF1-A322-486B-9390-08916BC89CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221A3BF1-A322-486B-9390-08916BC89CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221A3BF1-A322-486B-9390-08916BC89CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221A3BF1-A322-486B-9390-08916BC89CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FDF999C-B491-45BD-91BB-A128A392BB78}
+	EndGlobalSection
+EndGlobal
